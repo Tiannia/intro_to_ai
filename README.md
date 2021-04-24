@@ -38,13 +38,11 @@ xxxX负责查文献和理论研究部分，xxxX负责代码部分。
 
 师兄师姐的优秀作品、B站风格迁移学习视频、Github风格迁移项目。
 
-优质的GitHub项目例如：https://github.com/luanshiyinyang/DeepLearningProject/tree/master/NeuralStyle
-
-https://github.com/anishathalye/neural-style 
+优质的GitHub项目例如：https://github.com/luanshiyinyang/DeepLearningProject/tree/master/NeuralStyle    https://github.com/anishathalye/neural-style 
 
 可借助的工具、开源代码：pycharm、tensorflow、PaddlePaddle、Keras、OpenCV
 
-### **五、****计划进度安排**
+### **五、计划进度安排**
 
 3月20日至3月26日，完成选题并分配好小组成员任务。
 
