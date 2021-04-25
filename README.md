@@ -32,7 +32,7 @@
 
 由于各成员都是初学者，需要不断地进行相关文献的阅读以及课程项目的研究。
 
-xxxX负责查文献和理论研究部分，xxxX负责代码部分。
+xxx负责查文献和理论研究部分，xxx负责代码部分。
 
 已有的学习资源：
 
@@ -66,11 +66,7 @@ xxxX负责查文献和理论研究部分，xxxX负责代码部分。
 
 [3]《A Learned Representation for Artistic Style》
 
- 
-
-相关学习文献：
-
-Deep Leaning and CNN:
+Deep Leaning and CNN website:
 
 1.http://neuralnetworksanddeeplearning.com/chap6.html
 
