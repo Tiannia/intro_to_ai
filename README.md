@@ -71,3 +71,10 @@ Deep Leaning and CNN website:
 1.http://neuralnetworksanddeeplearning.com/chap6.html
 
 2.https://e2eml.school/how_convolutional_neural_networks_work.html	
+
+
+
+
+
+![login_index](C:\Users\Tian\Desktop\login_index.jpg)
+
