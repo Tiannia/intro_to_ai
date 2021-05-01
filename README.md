@@ -38,7 +38,10 @@ xxx负责查文献和理论研究部分，xxx负责代码部分。
 
 师兄师姐的优秀作品、B站风格迁移学习视频、Github风格迁移项目。
 
-优质的GitHub项目例如：https://github.com/luanshiyinyang/DeepLearningProject/tree/master/NeuralStyle    https://github.com/anishathalye/neural-style 
+优质的GitHub项目例如：
+
+- https://github.com/luanshiyinyang/DeepLearningProject/tree/master/NeuralStyle    
+- https://github.com/anishathalye/neural-style 
 
 可借助的工具、开源代码：pycharm、tensorflow、PaddlePaddle、Keras、OpenCV
 
@@ -68,13 +71,7 @@ xxx负责查文献和理论研究部分，xxx负责代码部分。
 
 Deep Leaning and CNN website:
 
-1.http://neuralnetworksanddeeplearning.com/chap6.html
+- http://neuralnetworksanddeeplearning.com/chap6.html
 
-2.https://e2eml.school/how_convolutional_neural_networks_work.html	
-
-
-
-
-
-![login_index](C:\Users\Tian\Desktop\login_index.jpg)
+- https://e2eml.school/how_convolutional_neural_networks_work.html	
 
