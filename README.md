@@ -85,12 +85,12 @@ Deep Leaning and CNN website:
 
 > Source
 
-![content](D:\Download\AI\DeepLearningExamples\tf2-neural-style-transfer\images\content.jpg)
+![source](https://github.com/Tiannia/intro_to_ai/blob/main/img-folder/content.jpg)
 
 > Style
 
-![style](D:\Download\AI\DeepLearningExamples\tf2-neural-style-transfer\images\style.jpg)
+![style](https://github.com/Tiannia/intro_to_ai/blob/main/img-folder/style.jpg)
 
 > Result
 
-![20](D:\Download\AI\DeepLearningExamples\tf2-neural-style-transfer\output\20.jpg)
+![result](https://github.com/Tiannia/intro_to_ai/blob/main/img-folder/20.jpg)
