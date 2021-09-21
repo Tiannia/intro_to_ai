@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T13:15:45.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XtClquBuwZhBJ9y1IvUC" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T13:18:06.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="E7jt9HuYc6dC15_4vNoQ" version="15.2.9" type="github">
   <diagram id="kTX6su0PMOBrZuuV1gaZ" name="第 1 页">
     <mxGraphModel dx="678" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,16 @@
         <mxCell id="y-xfseDDS1dq_g0I-2KE-42" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=16;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="300" y="610" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y-xfseDDS1dq_g0I-2KE-43" value="访问失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="640" width="71" height="10" as="geometry" />
+        <mxCell id="y-xfseDDS1dq_g0I-2KE-44" value="访问失败" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y-xfseDDS1dq_g0I-2KE-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="y-xfseDDS1dq_g0I-2KE-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-xfseDDS1dq_g0I-2KE-46" value="造成压力负载" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="615" width="100" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
