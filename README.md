@@ -67,7 +67,7 @@ xxx负责查文献和理论研究部分，xxx负责代码部分。
 
 ### 六、**参考文献**
 
-[1]《A Neural Algorithm of Artistic Style》 [https://arxiv.org/pdf/1508.06576.pdf]
+[1][《A Neural Algorithm of Artistic Style》](https://arxiv.org/pdf/1508.06576.pdf)
 
 [2]《Texture Synthesis Using Convolutional Neural Networks》
 
