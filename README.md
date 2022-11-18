@@ -94,3 +94,6 @@ Deep Leaning and CNN website:
 > Result
 
 ![result](https://github.com/Tiannia/intro_to_ai/blob/main/img-folder/20.jpg)
+
+### 具体代码
+请看：https://github.com/dummy2021/intro_to_ai
